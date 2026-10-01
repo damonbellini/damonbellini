@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Damon+Bellini+Portfolio;C%2B%2B+%7C+Rust+%7C+Haskell+%7C+Assembly+%7C+Lisp;Security+Architect+%7C+Red+Teamer+%7C+Exploit+Developer+%7C+Malware+Researcher+%7C+Reverse+Engineer" alt="Typing banner" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=damonbellini&label=PROFILE%20VIEWS&color=000000&style=for-the-badge)
 ![Followers](https://img.shields.io/badge/FOLLOWERS-985K-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Profile Visits](https://img.shields.io/badge/PROFILE%20VISITS-5.5M-000000?style=for-the-badge)
 
