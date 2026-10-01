@@ -1,79 +1,52 @@
 <div align="center">
 
+<img src="./assets/banner.jpg" width="100%" alt="Damon Bellini banner" />
+
 # DAMON BELLINI
 
-### 🦇 CYBERSECURITY • ETHICAL HACKING • AI • AUTOMATION
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Damon+Bellini+Portfolio;C%2B%2B+%7C+Rust+%7C+Haskell+%7C+Assembly+%7C+Lisp;Security+Architect+%7C+Red+Teamer+%7C+Exploit+Developer+%7C+Malware+Researcher+%7C+Reverse+Engineer" alt="Animated profile text" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Damon+Bellini+Portfolio;C%2B%2B+%7C+Rust+%7C+Haskell+%7C+Assembly+%7C+Lisp;Security+Architect+%7C+Red+Teamer+%7C+Exploit+Developer+%7C+Malware+Researcher+%7C+Reverse+Engineer" alt="Typing banner" />
-
-![Followers](https://img.shields.io/badge/FOLLOWERS-985K-000000?style=for-the-badge&logo=github&logoColor=white)
-![Profile Visits](https://img.shields.io/badge/PROFILE%20VISITS-5.5M-000000?style=for-the-badge)
+FOLLOWERS 985K &nbsp;&nbsp;&nbsp; PROFILE VISITS 5.5M
 
 </div>
 
 ---
 
-## 🖤 ABOUT DAMON
+## ABOUT ME
 
-> **Welcome to my GitHub portfolio.**
->
-> I am **Damon Bellini**, a Bulgarian and Italian creator from **Varna, Bulgaria**, building my path across cybersecurity, ethical hacking, artificial intelligence, automation and technology.
->
-> My goal is simple: **learn difficult things, build real systems and keep pushing beyond the standard.**
->
-> This profile is my technical workspace, learning archive and portfolio. Every project, laboratory and writeup represents another step forward.
+Hello, I present my GitHub portfolio.
 
-🇧🇬 **Bulgarian roots** · 🇮🇹 **Italian heritage** · 🌍 **Global mindset**
+I am from Varna, Bulgaria. I am Bulgarian and I also have Italian roots and heritage.
+
+This profile is where I document my work, projects, research, learning and development across cybersecurity, ethical hacking, artificial intelligence, automation and programming.
+
+My focus is on learning difficult technologies, building practical projects and continuously developing my technical skills.
 
 ---
 
-## ⚡ THE HARD MODE STACK
+## PROGRAMMING LANGUAGES
 
-<div align="center">
+C++  |  Rust  |  Haskell  |  Assembly  |  Lisp
 
-| Language | Why it belongs here |
-|---|---|
-| 🧠 **C++** | Low level systems, performance and memory control |
-| 🦀 **Rust** | Memory safety with systems level power |
-| λ **Haskell** | Pure functional programming and advanced abstractions |
-| ⚙️ **Assembly** | CPU instructions, reverse engineering and exploitation research |
-| 🌀 **Lisp** | Deep programming language concepts and metaprogramming |
-
-</div>
+These are five of the most challenging languages and paradigms I want to master because they push understanding of systems, memory, computation, abstractions and low level software.
 
 ---
 
-## 🦇 CYBERSECURITY // AURA MODE
+## CYBERSECURITY
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                         DAMON BELLINI                               ║
-║                 SECURITY • RESEARCH • OFFENSE                       ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  01  ADVANCED PENETRATION TESTING                                   ║
-║  02  RED TEAM OPERATIONS                                            ║
-║  03  EXPLOIT DEVELOPMENT                                            ║
-║  04  REVERSE ENGINEERING                                            ║
-║  05  MALWARE ANALYSIS                                               ║
-║  06  BINARY EXPLOITATION                                            ║
-║  07  WEB APPLICATION SECURITY                                       ║
-║  08  DIGITAL FORENSICS                                               ║
-║  09  THREAT HUNTING                                                  ║
-║  10  SECURITY AUTOMATION & AI                                       ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1900&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&height=80&lines=Advanced+Penetration+Testing;Red+Team+Operations;Exploit+Development;Reverse+Engineering;Malware+Analysis;Binary+Exploitation;Web+Application+Security;Digital+Forensics;Threat+Hunting;Security+Automation+and+AI" alt="Cybersecurity areas" />
 
-All security research is performed against systems and laboratories where I have permission to test.
+I use these areas for structured learning, authorized laboratories, CTFs and defensive security research.
 
 ---
 
-## 🧪 WHAT I BUILD
+## WHAT I DO
 
-`Cybersecurity Labs` · `CTF Writeups` · `Python Security Tools` · `Linux Automation` · `Networking Labs` · `Web Security Research` · `AI Security Experiments` · `OSINT Research` · `Reverse Engineering Notes` · `Security Documentation`
+Cybersecurity Labs  |  CTF Writeups  |  Python Security Tools  |  Linux Automation  |  Networking Labs  |  Web Security Research  |  AI Security Experiments  |  OSINT Research  |  Reverse Engineering Notes  |  Security Documentation
 
 ---
 
-## 📊 GITHUB COMMAND CENTER
+## GITHUB COMMAND CENTER
 
 <div align="center">
 
@@ -88,30 +61,24 @@ All security research is performed against systems and laboratories where I have
 
 ---
 
-## 🏆 FEATURED PROJECT
+## FEATURED PROJECT
 
-### [`cybersecurity-learning-toolkit`](https://github.com/damonbellini/cybersecurity-learning-toolkit)
+### cybersecurity-learning-toolkit
 
 My personal cybersecurity learning environment containing Linux notes, networking fundamentals, Git essentials, Python tooling, web security concepts, OWASP study notes, CTF documentation and progress tracking.
 
 ---
 
-## 🎯 2026 MISSION
+## 2026 MISSION
 
-```text
-[████████████████████░░░░░░░░░░]  BUILD • LEARN • RESEARCH • MASTER
-```
+BUILD  |  LEARN  |  RESEARCH  |  AUTOMATE  |  MASTER
 
-**Cybersecurity → Ethical Hacking → AI → Automation → Advanced Security Research**
+Cybersecurity → Ethical Hacking → AI → Automation → Advanced Security Research
 
 ---
 
 <div align="center">
 
-### 🦇 DAMON BELLINI
-
-**Think deeper. Build harder. Break only what you are authorized to test.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1700&pause=450&color=FFFFFF&center=true&vCenter=true&width=1100&height=90&lines=Penetration+Testing;Red+Team+Operations;Exploit+Development;Reverse+Engineering;Malware+Analysis;Binary+Exploitation;Web+Security;Digital+Forensics;Threat+Hunting;Security+Automation" alt="Ten cybersecurity disciplines" />
 
 </div>
