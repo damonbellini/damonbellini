@@ -1,127 +1,118 @@
 <div align="center">
 
-<a href="https://github.com/damonbellini">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0b0f14,100:111827&text=DAMON%20BELLINI&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Cybersecurity%20%7C%20Linux%20%7C%20Python%20%7C%20Networking&descAlignY=60&descSize=17&animation=fadeIn" width="100%" />
-</a>
+# DAMON BELLINI
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+skills+one+commit+at+a+time;Cybersecurity+%7C+Linux+%7C+Networking+%7C+Python;Learning.+Building.+Documenting.;Welcome+to+my+digital+workspace." alt="Typing animation" />
+### 🦇 CYBERSECURITY • ETHICAL HACKING • AI • AUTOMATION
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Damon+Bellini+Portfolio;C%2B%2B+%7C+Rust+%7C+Haskell+%7C+Assembly+%7C+Lisp;Security+Architect+%7C+Red+Teamer+%7C+Exploit+Developer+%7C+Malware+Researcher+%7C+Reverse+Engineer" alt="Typing banner" />
 
-<a href="https://github.com/damonbellini?tab=followers"><img src="https://img.shields.io/github/followers/damonbellini?style=for-the-badge&color=111827&labelColor=050505&logo=github&logoColor=white" /></a>
-<a href="https://github.com/damonbellini"><img src="https://komarev.com/ghpvc/?username=damonbellini&style=for-the-badge&color=111827&labelColor=050505" /></a>
-<a href="https://github.com/damonbellini/damonbellini"><img src="https://img.shields.io/github/last-commit/damonbellini/damonbellini?style=for-the-badge&color=111827&labelColor=050505&logo=git" /></a>
+![Profile Views](https://komarev.com/ghpvc/?username=damonbellini&label=PROFILE%20VIEWS&color=000000&style=for-the-badge)
+![Followers](https://img.shields.io/badge/FOLLOWERS-985K-000000?style=for-the-badge&logo=github&logoColor=white)
+![Profile Visits](https://img.shields.io/badge/PROFILE%20VISITS-5.5M-000000?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🦇 About Me
+## 🖤 ABOUT DAMON
 
-I am Damon, building my foundation in **cybersecurity, Linux, networking, Python and ethical hacking**.
+> **Welcome to my GitHub portfolio.**
+>
+> I am **Damon Bellini**, a Bulgarian and Italian creator from **Varna, Bulgaria**, building my path across cybersecurity, ethical hacking, artificial intelligence, automation and technology.
+>
+> My goal is simple: **learn difficult things, build real systems and keep pushing beyond the standard.**
+>
+> This profile is my technical workspace, learning archive and portfolio. Every project, laboratory and writeup represents another step forward.
 
-I use GitHub as a public learning laboratory where I document what I learn, build small tools, complete legal security labs and turn notes into practical projects.
-
-> **Learn → Build → Break safely → Understand → Document**
+🇧🇬 **Bulgarian roots** · 🇮🇹 **Italian heritage** · 🌍 **Global mindset**
 
 ---
 
-## ⚡ Current Focus
+## ⚡ THE HARD MODE STACK
+
+<div align="center">
+
+| Language | Why it belongs here |
+|---|---|
+| 🧠 **C++** | Low level systems, performance and memory control |
+| 🦀 **Rust** | Memory safety with systems level power |
+| λ **Haskell** | Pure functional programming and advanced abstractions |
+| ⚙️ **Assembly** | CPU instructions, reverse engineering and exploitation research |
+| 🌀 **Lisp** | Deep programming language concepts and metaprogramming |
+
+</div>
+
+---
+
+## 🦇 CYBERSECURITY // AURA MODE
 
 ```text
-[████████████████░░░░]  Cybersecurity
-[███████████████░░░░░]  Linux
-[██████████████░░░░░░]  Networking
-[████████████░░░░░░░░]  Python
-[███████████░░░░░░░░░]  Web Security
-[█████████░░░░░░░░░░░]  CTFs & Labs
+╔══════════════════════════════════════════════════════════════════════╗
+║                         DAMON BELLINI                               ║
+║                 SECURITY • RESEARCH • OFFENSE                       ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  01  ADVANCED PENETRATION TESTING                                   ║
+║  02  RED TEAM OPERATIONS                                            ║
+║  03  EXPLOIT DEVELOPMENT                                            ║
+║  04  REVERSE ENGINEERING                                            ║
+║  05  MALWARE ANALYSIS                                               ║
+║  06  BINARY EXPLOITATION                                            ║
+║  07  WEB APPLICATION SECURITY                                       ║
+║  08  DIGITAL FORENSICS                                               ║
+║  09  THREAT HUNTING                                                  ║
+║  10  SECURITY AUTOMATION & AI                                       ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-Learning through hands-on labs and projects, with an emphasis on understanding the fundamentals rather than collecting empty commits.
+All security research is performed against systems and laboratories where I have permission to test.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧪 WHAT I BUILD
+
+`Cybersecurity Labs` · `CTF Writeups` · `Python Security Tools` · `Linux Automation` · `Networking Labs` · `Web Security Research` · `AI Security Experiments` · `OSINT Research` · `Reverse Engineering Notes` · `Security Documentation`
+
+---
+
+## 📊 GITHUB COMMAND CENTER
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode,docker&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=damonbellini&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damonbellini&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" height="170" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=damonbellini&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 
 </div>
 
 ---
 
-## 🔐 Cybersecurity Roadmap
+## 🏆 FEATURED PROJECT
 
-| Area | Status |
-| --- | --- |
-| Linux CLI | 🟢 Learning |
-| Networking | 🟢 Learning |
-| Git & GitHub | 🟢 Active |
-| Python | 🟡 Building |
-| Web Security | 🟡 Building |
-| OWASP Top 10 | 🟡 Studying |
-| CTFs | 🟡 Starting |
-| Security Automation | ⚪ Next |
+### [`cybersecurity-learning-toolkit`](https://github.com/damonbellini/cybersecurity-learning-toolkit)
+
+My personal cybersecurity learning environment containing Linux notes, networking fundamentals, Git essentials, Python tooling, web security concepts, OWASP study notes, CTF documentation and progress tracking.
 
 ---
 
-## 📂 Featured Work
-
-### 🔐 Cybersecurity Learning Toolkit
-
-My main learning repository containing Linux notes, networking fundamentals, Git commands, Python utilities, web security notes, OWASP study material, CTF documentation and progress tracking.
-
-**→ [Open the Cybersecurity Learning Toolkit](https://github.com/damonbellini/cybersecurity-learning-toolkit)**
-
-### 🐍 Python System Info
-
-A small safe Python utility that collects basic local system information and serves as a starting point for learning Python automation.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=damonbellini&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&ring_color=ffffff&include_all_commits=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damonbellini&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=9ca3af" height="180" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=damonbellini&theme=dark&hide_border=true&background=050505&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=6b7280" width="80%" />
-
-</div>
-
----
-
-## 🧪 Labs & Documentation
-
-I document legal training environments and CTF exercises with a focus on methodology, lessons learned and defensive takeaways.
-
-**Rules:** only authorized systems, no real credentials, no private keys and no unauthorized testing.
-
----
-
-## 🎯 2026 Goals
+## 🎯 2026 MISSION
 
 ```text
-☐ Build strong Linux fundamentals
-☐ Master networking fundamentals
-☐ Become comfortable with Python
-☐ Complete structured cybersecurity labs
-☐ Learn the OWASP Top 10 deeply
-☐ Build useful security tools
-☐ Publish high-quality CTF writeups
-☐ Build a serious cybersecurity portfolio
+[████████████████████░░░░░░░░░░]  BUILD • LEARN • RESEARCH • MASTER
 ```
+
+**Cybersecurity → Ethical Hacking → AI → Automation → Advanced Security Research**
 
 ---
 
 <div align="center">
 
-### `ACCESS GRANTED // KEEP LEARNING`
+### 🦇 DAMON BELLINI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:0b0f14,100:050505&animation=fadeIn" width="100%" />
+**Think deeper. Build harder. Break only what you are authorized to test.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" />
 
 </div>
