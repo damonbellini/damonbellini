@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" width="100%" alt="Damon Bellini banner" />
+<img src="https://raw.githubusercontent.com/damonbellini/damonbellini/main/assets/banner.jpg" width="100%" alt="Damon Bellini banner" />
 
 # DAMON BELLINI
 
